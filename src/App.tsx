@@ -2,7 +2,7 @@ function App(): JSX.Element {
   return (
     <>
       <header>
-        <div></div>
+        <div>Hello world!</div>
       </header>
     </>
   )
